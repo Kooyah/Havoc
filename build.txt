@@ -1,0 +1,5 @@
+author = PeopleMcNugget
+version = 0.1.1
+displayName = Havoc Mod
+homepage = https://forums.terraria.org/index.php?threads/the-havoc-mod.55424/buildIgnore = .vs\*, .git\*, ignore\*, .gitignore, .gitattributes, *.MD, *.csproj, *.user, obj\*, bin\*
+includePDB = truehideCode = truehideResources = trueincludeSource = true

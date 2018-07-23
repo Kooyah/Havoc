@@ -1,0 +1,32 @@
+The Havoc Mod is another content mod that aims to enhance the experience of Vanilla gameplay, and to be playable alongside many other mods.
+Havoc has undergone development for over a year by now, and has integrated with GabeHasWon's swamp biome over that timespan. While Havoc is still a WIP, its content makes for a reasonably balanced playthrough, all the way up to post-Moon Lord weapons.
+Current Content:
+-2 Bosses
+-34 Weapons
+-2 Armor Sets
+-1 Accessory
+-The Swamp, a murky biome found both underground and on the surface.
+
+
+Version History :
+V0.1.3
+-Resprited most weapons
+-Overhauled thermal weapons
+-Overhauled the swamp biome
+-Added the mangrove weapons/armor
+-Added celestial flare, shadeflare, and cosmillash
+-Various bugfixes
+
+
+V0.1.2
+-Added the swamp biome
+-Added thermal weapons
+
+V0.1.1
+-Added sharkvern
+-Added tornado and upheaval
+-Various bugfixes
+
+
+V0.1
+-Mod release
